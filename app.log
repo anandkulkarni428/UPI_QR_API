@@ -1,0 +1,20 @@
+01/28/2022 10:54:40 PM Started server process [11384]
+01/28/2022 10:54:40 PM Waiting for application startup.
+01/28/2022 10:54:40 PM Application startup complete.
+01/28/2022 10:54:40 PM Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+01/28/2022 10:55:39 PM Shutting down
+01/28/2022 10:55:39 PM Waiting for application shutdown.
+01/28/2022 10:55:39 PM Application shutdown complete.
+01/28/2022 10:55:39 PM Finished server process [11384]
+01/28/2022 10:56:34 PM Started server process [12928]
+01/28/2022 10:56:34 PM Waiting for application startup.
+01/28/2022 10:56:34 PM Application startup complete.
+01/28/2022 10:56:39 PM Login route is hit.
+01/28/2022 10:57:12 PM Started server process [13256]
+01/28/2022 10:57:12 PM Waiting for application startup.
+01/28/2022 10:57:12 PM Application startup complete.
+01/28/2022 10:57:15 PM Login route is hit.
+01/28/2022 10:57:25 PM Started server process [12876]
+01/28/2022 10:57:25 PM Waiting for application startup.
+01/28/2022 10:57:25 PM Application startup complete.
+01/28/2022 10:57:28 PM Login route is hit.
